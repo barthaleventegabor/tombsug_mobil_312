@@ -1,6 +1,3 @@
-import { StyleSheet, View, Text, TextInput } from "react-native";
-
-
 /*
  * File: Input.js
  * Author: Bartha Levente
