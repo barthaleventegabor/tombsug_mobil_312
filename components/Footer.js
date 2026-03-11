@@ -9,8 +9,12 @@ function Footer() {
 }
 
 const styles = StyleSheet.create({
-	container: {},
-    text:{}
+	container: {
+		padding: 10,
+	},
+    text:{
+		fontSize: 24,
+	}
 });
 
 export default Footer;
