@@ -1,6 +1,18 @@
 import { StyleSheet, View, Text, TextInput } from "react-native";
 
 
+/*
+ * File: Input.js
+ * Author: Bartha Levente
+ * Copyright: 2026, Bartha Levente
+ * Group: IN
+ * Date: 2026-03-11
+ * Github: https://github.com/barthaleventegabor/
+ * Licenc: MIT
+ */
+import { StyleSheet, View, Text, TextInput } from "react-native";
+
+
 function Input({label, value, onChangeText}) {
     return (
         <View style={styles.container}>
