@@ -8,7 +8,6 @@
 * Licenc: MIT
 */
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
-import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 
 function CustomButton({title, onPress}) {
     return(
